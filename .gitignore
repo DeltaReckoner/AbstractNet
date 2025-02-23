@@ -1,0 +1,6 @@
+/.vs
+/AbstractNet/bin
+/AbstractNet/obj
+/AbstractNet.Tests/obj
+/AbstractNet.Tests/bin
+AbstractNet.Tests/.env
