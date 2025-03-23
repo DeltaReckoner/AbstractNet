@@ -7,6 +7,8 @@
         Landscape,
         Auto,
         Fit,
-        Crop
+        Crop,
+        Square,
+        Fill
     }
 }
